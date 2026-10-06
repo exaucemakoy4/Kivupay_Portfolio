@@ -1,0 +1,24 @@
+Colonne1;Colonne2;Colonne3;Colonne4;Colonne5;Colonne6;Colonne7;Colonne8;;;indicateurs clé;;;;;
+Colonne1;Colonne2;Colonne3;Colonne4;Colonne5;Colonne6;Colonne7;Colonne8;;nombre total de transactions;;;;;;
+kivupay_analyse des transactions;;;;;;;;;;5;;;;;
+date_transaction;nom_agent;ville_agent;nom_client;montant;frais;statut;motif_echec;;montant total;;;;;;
+04/04/2026;lukaku;kinshasa;MARTIN;50000;500;REUSSIE;NULL;;;190000;;;;;
+10/10/2025;MAKOY;MATADI;Mbuyi;80000;3000;REUSSIE;NULL;;frais totaux;;;190000;;;
+01/03/2020;YONGELI;BOMA;luza;10000;500;NON REUSSIE;REFUS;;;5100;;FAUX;;;
+08/04/2021;MAVANGA;GOMA;kongi;20000;600;NON REUSSIE;IMPREVU;;transactions reussies;;;;;;
+25/08/2022;KITIMINI;KINSHASA;david;30000;500;REUSSIE;NULL;;;3;;;;;
+;;;;;;;;;transactions non reussies;;;;;;
+;;;;;;;;;;2;;;;;
+;;;;;;;;analyse du montant par agent;;;;;;;
+;;;;;;;;nom de l'agent;;montant total;nombre de transactions;;frais totaux;performance;transactions non reussie
+;;;;;;;;lukaku;;50000;1;;500;elevée;0
+;;;;;;;;makoy;;80000;1;;3000;elevée;0
+;;;;;;;;yongeli;;10000;1;;500;faible;1
+;;;;;;;;mavanga;;20000;1;;600;faible;1
+;;;;;;;;kitimini;;30000;1;;500;faible;0
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;motifs d'echec;;;;;;;
+;;;;;;;;motifs;;echec;;;;;
+;;;;;;;;refus;;1;;;;;
+;;;;;;;;imprevus;;1;;;;;

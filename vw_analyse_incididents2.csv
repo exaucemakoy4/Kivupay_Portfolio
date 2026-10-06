@@ -1,0 +1,21 @@
+﻿Colonne1;Colonne2;Colonne3;Colonne4;Colonne5;Colonne6;;;
+kivupay_analyse des incidents;;;;;;;analyse des incidents;
+incident_id;transaction_id;type_incident;description;gravité;date_incident;;gravité;nombre
+INC001;TR001;NULL;TRANSACTION REUSSIE;NORMALE;NULL;;normale;3
+INC002;TR002;NULL;TRANSACTION REUSSIE;NORMALE;NULL;;faible;1
+INC003;TR003;REFUS DE COOPERER;TRANSACTION ECHOUE;MOYENNE;01/03/2020;;moyenne;1
+INC004;TR004;IMPREVU;TRANSACTION ECHOUE;FAIBLE;08/04/2021;;;
+INC005;TR005;NULL;TRANSACTION REUSSIE;NORMALE;NULL;;type d'incidents;
+;;;;;;;type;nombre
+;;;;;;;impreviu;1
+;;;;;;;refus;1
+;;;;;;;non renseigné;3
+;;;;;;;total incidents;5
+;;;;;;;;
+;;;;;;;description des incidents;
+;;;;;;;description;nombre
+;;;;;;;TRANSACTION REUSSIE;3
+;;;;;;;TRANSACTION ECHOUE;2
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
