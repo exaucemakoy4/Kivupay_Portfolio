@@ -1,6 +1,9 @@
 EXAUCE MAKOY
 
 KIVUPAY_ANALYSE DES TRANSACTIONS
+!(Dashboard kivupay)
+(capture%20d%80%99%C3%A9%cran%20 2026.png)
+
 Projet_ SQL Server /Excel/Power BI
 
 Présentation 
