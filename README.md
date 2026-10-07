@@ -1,7 +1,8 @@
 EXAUCE MAKOY
 
 KIVUPAY_ANALYSE DES TRANSACTIONS
-!{Dashboard}(dashboard.png)
+
+![Dashboard](dashboard.png)
 
 Projet_ SQL Server /Excel/Power BI
 
