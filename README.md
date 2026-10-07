@@ -6,6 +6,9 @@ KIVUPAY_ANALYSE DES TRANSACTIONS
 
 Projet_ SQL Server /Excel/Power BI
 
+ce projet démontre ma capacité a collecter, sctructurer,
+analyser et visualiser des données financieres.
+
 Présentation 
 
 kivupay est un projet fictif d'analyse de transactions financières digitales en RDC.
