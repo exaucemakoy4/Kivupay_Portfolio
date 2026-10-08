@@ -4,6 +4,8 @@ KIVUPAY_ANALYSE DES TRANSACTIONS
 
 ![Dashboard](dashboard.png)
 
+![analyse](analyse.png)
+
 Projet_ SQL Server /Excel/Power BI
 
 ce projet démontre ma capacité a collecter, sctructurer,
