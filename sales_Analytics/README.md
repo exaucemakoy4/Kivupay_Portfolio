@@ -1,5 +1,5 @@
 tableau de bord Sales Analytics
-
+![Dashboard Sales Analytics](Sales_Analytics.png)
 Présentation du projet
 
 ce projet consiste a analyser les performances commerciales a l'aide de power Bi, a partir de données de vente.
