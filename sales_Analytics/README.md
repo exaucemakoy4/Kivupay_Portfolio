@@ -1,6 +1,6 @@
 tableau de bord Sales Analytics
 
-![Sales.analyse](Sales.analyse.png)
+![Dashboard Sales Analytics](Sales-analyse.png)
 
 
 Présentation du projet
